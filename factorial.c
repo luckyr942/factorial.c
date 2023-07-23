@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-# to print the factorial of the no
+            # to print the factorial of the no
 int main() {
     int fact=1 , n,i;
     scanf("%d",&n);
