@@ -7,8 +7,6 @@ int main() {
     for (int i=1; i<=n; i++){
         fact=fact*i;
     }
-        printf("fact=%d",fact);
-    
-    
+        printf("fact=%d",fact);  
     return 0;
 }
